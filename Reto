@@ -1,1 +1,12 @@
-print("Hola")
+local h2 = "H"
+local e = "e"
+local l = "l"
+local l2 = "l"
+local h = "o"
+local w = " W"
+local o = " o"
+local r = " r"
+local d = " d"
+local l = " l"
+wait(1)
+print(h2, e, l, l2, h, w, o, r, d, l)
